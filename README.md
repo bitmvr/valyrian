@@ -5,6 +5,8 @@ Valyrian is simple video cutter.
 
 ## Getting Started
 
+> **NOTE:** This has a depdency on `ffmpeg` and `ffprobe`
+
 ### Add Timestamp
 
 1. Open 'timestamps.manifest' with your favorite editor.
