@@ -4,10 +4,15 @@ manifest="timestamps.manifest"
 video_source="$1"
 
 if [[ -z $video_source ]]; then
-  echo "Error: Please provide a video file."
+  echo '      .'
+  echo ' .>   )\;`a__'
+  echo '(  _ _)/ /-." ~~ ERROR: Please provide a video file'
+  echo ' `( )_ )/'
+  echo '  <_  <_'
   echo ""
   echo "Usage: ./valyrian.sh VIDEO_FILE"
   echo ""
+
   exit 1
 fi
 
