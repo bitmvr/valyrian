@@ -9,7 +9,7 @@ Valyrian is simple video cutter.
 
 ### Add Timestamp
 
-1. Open 'timestamps.manifest' with your favorite editor.
+1. Open `timestamps.manifest` with your favorite editor.
 2. Add timestamps in `HH:MM:SS` format.
 
 
